@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="A00268808_Server/src"/>
+	<classpathentry kind="lib" path="A00268808_Server/database/antlib/maven-ant-tasks-2.1.3.jar"/>
+	<classpathentry kind="lib" path="A00268808_Server/database/lib/hsqldb-2.3.4.jar"/>
+	<classpathentry kind="lib" path="A00268808_Server/database/lib/sqltool-2.3.4.jar"/>
+	<classpathentry kind="lib" path="A00268808_Server/lib/hsqldb-2.3.4.jar"/>
+	<classpathentry kind="lib" path="A00268808_Server/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="A00268808_Server/lib/jersey-bundle-1.15.jar"/>
+	<classpathentry kind="lib" path="A00268808_Server/WebContent/WEB-INF/lib/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="A00268808_Server/WebContent/WEB-INF/lib/hsqldb-2.3.4.jar"/>
+	<classpathentry kind="lib" path="A00268808_Server/WebContent/WEB-INF/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="A00268808_Server/WebContent/WEB-INF/lib/jersey-bundle-1.15.jar"/>
+	<classpathentry kind="output" path="A00268808_Server/build/classes"/>
+</classpath>
